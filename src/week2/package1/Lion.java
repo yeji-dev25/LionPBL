@@ -3,8 +3,8 @@ package week2.package1;
 public class Lion {
 
     public String name;
-    public String specialty;
-    public int corps;
+    String specialty;
+    private int corps;
 
     public Lion(String name, String specialty, int corps) {
 
