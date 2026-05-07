@@ -1,0 +1,11 @@
+﻿# IDE
+.idea/
+*.iml
+
+# Build output
+out/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
